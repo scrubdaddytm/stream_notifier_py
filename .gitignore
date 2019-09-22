@@ -1,0 +1,6 @@
+venv/
+private/
+__pycache__/
+distro/
+*.zip
+.DS_Store
